@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1544534764892,
-            "changeTime": 1544534764892,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1544536730756,
+            "changeTime": 1544536730756,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -48,13 +48,12 @@
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1544531219492,
-            "changeTime": 1544531219492,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1544535196655,
+            "changeTime": 1544535196655,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -63,13 +62,12 @@
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1544531787414,
-            "changeTime": 1544531787414,
-            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "modifiedTime": 1544534835653,
+            "changeTime": 1544534835653,
+            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -127,14 +125,14 @@
     [
         "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1544532449764,
-            "changeTime": 1544532449764,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9682,
+            "modifiedTime": 1544536730752,
+            "changeTime": 1544536730752,
+            "contentHash": "cbe4560793289764153cb1e0127f03c4d4a585ad"
         }
     ],
     [
@@ -218,40 +216,261 @@
     [
         "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1544534764904,
             "changeTime": 1544534764904,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1544535140155,
             "changeTime": 1544535140155,
-            "contentHash": "8f7077afa01ac131339aac75292e1f7ffb4d98e3"
+            "contentHash": "8f7077afa01ac131339aac75292e1f7ffb4d98e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1544534764904,
             "changeTime": 1544534764904,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1544535370900,
+            "changeTime": 1544535370900,
+            "contentHash": "8da27679a14820f05cf045a32791fe174b471bf4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1544535196655,
+            "changeTime": 1544535196655,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 107,
+            "modifiedTime": 1544536476477,
+            "changeTime": 1544536476477,
+            "contentHash": "8c64a64ed62c75c9a95ecec08213227445aa76b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544535196659,
+            "changeTime": 1544535196659,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1544536730752,
+            "changeTime": 1544536730752,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1544536730756,
+            "changeTime": 1544536730756,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1544536730756,
+            "changeTime": 1544536730756,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18199,
+            "modifiedTime": 1544536730768,
+            "changeTime": 1544536730768,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1544536730772,
+            "changeTime": 1544536730772,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1544536730752,
+            "changeTime": 1544536730752,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/nitinp83/sfdx-projects/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1544536730772,
+            "changeTime": 1544536730772,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
